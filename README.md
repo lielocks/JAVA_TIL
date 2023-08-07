@@ -1,4 +1,4 @@
-# 원티드 프리온보딩 백엔드 챌린지 6월 복습 및 java 개인 공부 과정 기록
+# 원티드 프리온보딩 백엔드 챌린지 6월 복습 및 java 개인 공부 과정 정리
 
 ### 1-1 Java의 정의와 동작 방식
 [ 키워드 ] Java, JRE, JDK, JVM, AOT, JIT, Java Bytecode, Code Cache, ByteBuddy
